@@ -1,5 +1,5 @@
 <h1 align="center">Hola, soy Kevin Mecinas 👋</h1>
-<h3 align="center">mkdev · Desarrollador web en formación</h3>
+<h3 align="center">Desarrollador web en formación</h3>
 
 <br>
 
