@@ -1,5 +1,6 @@
 # ¡Hola! Soy Kevin Mecinas 👋
 
+
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
 - 💡 Aprendizaje **autodidacta** constante.
