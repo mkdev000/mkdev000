@@ -1,9 +1,5 @@
 # ¡Hola! Soy Kevin Mecinas 👋
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=mkdev000&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Mkdev" width="400">
-</p>
-
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
 - 💡 Aprendizaje **autodidacta** constante.
@@ -23,6 +19,10 @@
 - [ ] Obtener mi título de **DAW**.
 - [ ] Certificar mi nivel **B2 de Inglés**.
 - [ ] Colaborar en proyectos de código abierto.
+
+<p align="right">
+  <img src="https://github-readme-stats.vercel.app/api?username=mkdev000&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Mkdev" width="400">
+</p>
 
 ---
 <p align="center">
