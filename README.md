@@ -42,19 +42,3 @@
 <p align="center">
   <i>"Construyendo el futuro línea a línea."</i>
 </p>
-
-💼 Sobre mí
-🎓 Actualmente desarrollador fullstak React/NodeJS.
-💻 Estoy enfocado en tecnologías web, especialmente JavaScript, React, y Node.js.
-🌐 Me gusta explorar y experimentar con nuevas tecnologías para mejorar mis habilidades.
-📫 Contáctame: albertus1291@gmail.com | LinkedIn
-📁 Portafolio
-🔧 Tecnologías y herramientas
-Lenguajes:
-html5 logo css3 logo javascript logo
-Frameworks y Librerías:
-react logo nodejs logo express logo
-Bases de datos:
-mysql logo mongodb logo supabase logo
-Herramientas:
-git logo github logo vscode logo
