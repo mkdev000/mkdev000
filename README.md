@@ -2,10 +2,10 @@
 
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
-- 🎓 Actualmente desarrollador fullstak React/NodeJS.
 - 💡 Aprendizaje **autodidacta** constante.
-- 🇬🇧 **Inglés B2 certificado** (Aptis).
-- 🛠️ Enfocado en **React, Node.js y TypeScript**, construyendo proyectos reales.
+- 🎓 Actualmente desarrollador fullstak React/NodeJS.
+- 🛠️ Enfocado en tecnologías web **React, Node.js y Javascript**, construyendo proyectos reales.
+-  🇬🇧 **Inglés B2 certificado** (Aptis).
 
 ### 💻 Tecnologías en mi Stack
 
