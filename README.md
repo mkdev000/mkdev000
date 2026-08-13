@@ -26,14 +26,6 @@
 - 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
 - ⚙️ [**Portafolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
 
-### 🎯 Mis Objetivos
-- [ ] Terminar último año del  Grado Superior en **DAW**.
-- [ ] Realizar la FCT (prácticas) en una empresa.
-- [ ] Profundizar en bases de datos y arquitectura backend.
-- [ ] Construir 2-3 proyectos full-stack completos, desplegados en producción.
-- [ ] Colaborar en mi primer proyecto de código abierto.
-- [ ] Conseguir mi primer puesto como desarrollador junior.
-
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mkdev000&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Mkdev" width="400">
 </p>
