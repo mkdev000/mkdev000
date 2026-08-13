@@ -22,8 +22,8 @@
 
 ### 📌 Proyectos destacados
 
-- 💼 [**Portfolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
-- ⚙️ [**Portfolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
+- 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
+- ⚙️ [**Portafolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
 
 ### 🎯 Mis Objetivos
 - [ ] Terminar último año del  Grado Superior en **DAW**.
