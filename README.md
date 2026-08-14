@@ -7,19 +7,19 @@
 - 🛠️ Enfocado en tecnologías web **React, Node.js y Javascript**, construyendo proyectos reales.
 -  🇬🇧 **Inglés B2 certificado** (Aptis).
 
-### 💻 Tecnologías en mi Stack
+## 💻 Tecnologías y herramientas
 
-<p align="left">
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+**Lenguajes:**
+
+![](https://skillicons.dev/icons?i=html,css,js,ts)
+
+**Frameworks y Librerías:**
+
+![](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)
+
+**Herramientas:**
+
+![](https://skillicons.dev/icons?i=git,github,vscode)
 
 ### 📌 Proyectos destacados
 
