@@ -1,5 +1,7 @@
 # ¡Hola! Soy Kevin Mecinas 👋
 
+Soy desarrollador Full Stack Junior apasionado por la creación de soluciones tecnológicas limpias y eficientes. Actualmente curso el segundo año de CFGS en Desarrollo de Aplicaciones Web (DAW) y me encuentro en búsqueda activa de mi primera oportunidad profesional o prácticas en el sector IT.
+
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
 - 💡 Aprendizaje **autodidacta** constante.
