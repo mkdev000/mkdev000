@@ -17,12 +17,15 @@
 
 ![](https://skillicons.dev/icons?i=react,nodejs,express,tailwind)
 
+**Bases de datos:**
+
+![](https://skillicons.dev/icons?i=mysql)
+
 **Herramientas:**
 
 ![](https://skillicons.dev/icons?i=git,github,vscode)
 
 ### 📌 Proyectos destacados
-
 - 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
 - ⚙️ [**Portafolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
 
@@ -31,6 +34,13 @@
 </p>
 
 ---
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kevin-mecinas-jim%C3%A9nez-46860a429/)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:kevin009673@gmail.com)
+
+</div>
 
 <p align="center">
   <i>"Construyendo el futuro línea a línea."</i>
