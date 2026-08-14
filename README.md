@@ -4,12 +4,14 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 
 ---
 
-### 🚀 Sobre mí
+### 💼 Sobre mí
 - 🎓 Estudiante de **DAW** (Desarrollo de Aplicaciones Web).
 - 💡 Aprendizaje **autodidacta** constante.
 - 🎓 Actualmente desarrollador fullstak React/NodeJS.
 - 🛠️ Enfocado en tecnologías web **React, Node.js y Javascript**, construyendo proyectos reales.
 -  🇬🇧 **Inglés B2 certificado** (Aptis).
+
+---
 
 ## 💻 Tecnologías y herramientas
 
@@ -28,6 +30,8 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 **Herramientas:**
 
 ![](https://skillicons.dev/icons?i=git,github,vscode)
+
+---
 
 ### 📌 Proyectos destacados
 - 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
