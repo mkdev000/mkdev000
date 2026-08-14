@@ -33,7 +33,7 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 
 ---
 
-### 📌 Proyectos destacados
+## 📌 Proyectos destacados
 - 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
 - ⚙️ [**Portafolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
 
