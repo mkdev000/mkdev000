@@ -34,8 +34,14 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 ---
 
 ## 📌 Proyectos destacados
-- 💼 [**Portafolio Personal**](https://github.com/mkdev000/portfolio) — React, TypeScript, Tailwind CSS, Framer Motion
-- ⚙️ [**Portafolio Backend**](https://github.com/mkdev000/portfolio-backend) — Node.js, Express, Nodemailer
+
+[🔗 Rutlink](https://rutlink.vercel.app)
+- 🟢 Acortador de URLs con estadísticas de clics en tiempo real. Genera enlaces cortos, cópialos al instante y consulta cuántas veces se han visitado.
+- 🟢 Tecnologías: React, TypeScript, Tailwind CSS, Node.js, Express, MySQL.
+
+[💼 Portfolio Personal](https://github.com/mkdev000/portfolio)
+- 🟡 Mi portfolio personal como desarrollador Full Stack, con formulario de contacto real conectado a un backend propio.
+- 🟡 Tecnologías: React, TypeScript, Tailwind CSS, Framer Motion, Node.js, Express.
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mkdev000&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Mkdev" width="400">
