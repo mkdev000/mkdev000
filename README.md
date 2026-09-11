@@ -10,7 +10,7 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 - 🎓 Actualmente desarrollador fullstak React/NodeJS.
 - 🛠️ Enfocado en tecnologías web **React, Node.js y Javascript**, construyendo proyectos reales.
 -  🇬🇧 **Inglés B2 certificado** (Aptis).
--  <img src="https://raw.githubusercontent.com/mkdev000/portfolio/master/public/favicon.png" width="16" height="16" alt="Portafolio"/> Portfolio personal: **[kevinmecinas.vercel.app](https://kevinmecinas.vercel.app)**
+-  <img src="https://raw.githubusercontent.com/mkdev000/portfolio/master/public/favicon.png" width="16" height="16" alt="Portafolio"/> Portafolio personal: **[kevinmecinas.vercel.app](https://kevinmecinas.vercel.app)**
 
 ---
 
