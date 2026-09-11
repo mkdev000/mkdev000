@@ -36,7 +36,7 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 
 ## 📌 Proyectos destacados
 
-[🔗 Rutlink](https://rutlink.vercel.app)
+[<img src="https://raw.githubusercontent.com/mkdev000/acortador-urls-frontend/main/public/favicon.svg" width="18" height="18" alt="Rutlink"/> Rutlink](https://rutlink.vercel.app)
 - 🟢 Acortador de URLs con estadísticas de clics en tiempo real. Genera enlaces cortos, cópialos al instante y consulta cuántas veces se han visitado.
 - 🟢 Tecnologías: React, TypeScript, Tailwind CSS, Node.js, Express, MySQL.
 
