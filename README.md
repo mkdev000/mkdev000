@@ -10,6 +10,7 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 - 🎓 Actualmente desarrollador fullstak React/NodeJS.
 - 🛠️ Enfocado en tecnologías web **React, Node.js y Javascript**, construyendo proyectos reales.
 -  🇬🇧 **Inglés B2 certificado** (Aptis).
+-  <img src="https://raw.githubusercontent.com/mkdev000/portfolio/master/public/favicon.png" width="16" height="16" alt="Portfolio"/> Portfolio personal: **[kevinmecinas.vercel.app](https://kevinmecinas.vercel.app)**
 
 ---
 
@@ -39,9 +40,13 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 - 🟢 Acortador de URLs con estadísticas de clics en tiempo real. Genera enlaces cortos, cópialos al instante y consulta cuántas veces se han visitado.
 - 🟢 Tecnologías: React, TypeScript, Tailwind CSS, Node.js, Express, MySQL.
 
-[💼 Portfolio Personal](https://github.com/mkdev000/portfolio)
+[<img src="https://raw.githubusercontent.com/mkdev000/portfolio/master/public/favicon.png" width="18" height="18" alt="Portfolio"/> Portfolio Personal](https://github.com/mkdev000/portfolio)
 - 🟡 Mi portfolio personal como desarrollador Full Stack, con formulario de contacto real conectado a un backend propio.
 - 🟡 Tecnologías: React, TypeScript, Tailwind CSS, Framer Motion, Node.js, Express.
+
+[<img src="https://raw.githubusercontent.com/mkdev000/gestor-tareas-frontend/main/public/favicon.png" width="18" height="18" alt="KmTask"/> KmTask](https://kmtask.vercel.app)
+- 🔵 Gestor de tareas con autenticación propia (registro e inicio de sesión con JWT), tareas privadas por usuario, calendario, filtros por proyecto/etiqueta y prioridad, y reportes de progreso.
+- 🔵 Tecnologías: React, TypeScript, Tailwind CSS, Node.js, Express, MySQL.
 
 <p align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=mkdev000&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Mkdev" width="400">
@@ -59,3 +64,5 @@ Soy desarrollador Full Stack Junior apasionado por la creación de soluciones te
 <p align="center">
   <i>"Construyendo el futuro línea a línea."</i>
 </p>
+
+---
